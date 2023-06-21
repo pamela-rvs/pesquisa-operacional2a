@@ -17,9 +17,9 @@
 
 ## Tópicos
 
-:heavy_check_mark: Exercícios  
+:heavy_check_mark: Trabalhos
 
-:heavy_check_mark: Aulas Práticas 
+:heavy_check_mark: Monitoria de PO 
 
 :heavy_check_mark: Projeto - Artigo
 
